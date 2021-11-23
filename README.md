@@ -30,7 +30,7 @@ Under Android 11.0 (R)  there’ll be a “Snapp Automotive Intel x86 Atom Syste
 
 ### Creating an emulator AVD
 
-Select the AVD Manager from the Tools menu, and click on “+ Create Virtual Device” in the bottom left hand corner. Select the “Automotive” type on the left and “Automotive 1024p landscape” device, then click “Next”;
+Select the AVD Manager from the Tools menu, and click on “+ Create Virtual Device” in the bottom left hand corner. Select the “Automotive” type on the left than you should see a “Automotive 1024p landscape” device with Play Store, but the pre-built image doesn't come with Play Store, to create a non Play Store device, right click on the “Automotive 1024p landscape” device than click "clone". After you clone the device click “Next”;
 
 ![AVD Creation Screenshot](image3.png)
 
