@@ -12,7 +12,7 @@ If you want to try the emulator image first please follow the instructions below
 
 To add the Snapp Automotive Emulator Image to Android Studio you need to select the SDK Manager option from the Tools menu. When the dialog box opens click on the “SDK Update Sites” option and select the “+” symbol to add a new site.
 
-![SDK Update Sites screenshot](image3.png)
+![SDK Update Sites screenshot](image1.png)
 
 The details are;
 
@@ -32,15 +32,15 @@ Under Android 11.0 (R)  there’ll be a “Snapp Automotive Intel x86 Atom Syste
 
 Select the AVD Manager from the Tools menu, and click on “+ Create Virtual Device” in the bottom left hand corner. Select the “Automotive” type on the left and “Automotive 1024p landscape” device, then click “Next”;
 
-![AVD Creation Screenshot](image5.png)
+![AVD Creation Screenshot](image3.png)
 
 
 On the next screen you will be ofference an Android R image which is called “11.0 Snapp Automotive”. Select it and click “Next”.
 
-![Snapp Automotive Image](image6.png)
+![Snapp Automotive Image](image4.png)
 
 You can change the name of your AVD if you wish on the final dialog, or you can just click finish.
 
-![Final dialog screenshot](image1.png)
+![Final dialog screenshot](image5.png)
 
 Now the AVD has been created you can start the emulator with the play button, sit back, and enjoy my dumb-ass boot animation and the Snapp Maps app based on Open Street Map and OSMDroid.
