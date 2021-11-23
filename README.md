@@ -35,7 +35,7 @@ Select the AVD Manager from the Tools menu, and click on “+ Create Virtual Dev
 ![AVD Creation Screenshot](image5.png)
 
 
-On the next screen you will be ofference an Android R image which is called “11.0 Snapp Automotive”. Select it and click “Next”.
+On the next screen you will be offered an Android R image which is called “11.0 Snapp Automotive”. Select it and click “Next”.
 
 ![Snapp Automotive Image](image6.png)
 
