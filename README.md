@@ -19,7 +19,7 @@ The details are;
 | Option | Setting |
 | --- | --- |
 | Name      | Snapp Automotive |
-| URL       | https://images.snappautomotive.com/emulator/snapp-automotive-sys-img2-1.xml |
+| URL       | https://downloads.snappautomotive.com/emulator/snapp-automotive-sys-img2-1.xml |
 | Use Authentication | Unticked |
 
 Now click “OK” on the dialog box, and then “Apply” in the bottom right corner of the “Update Sites” dialog. In the same dialog box click on the “SDK Platforms” header, and tick the “Show Package Details” box in the bottom right corner. You should see a list like this;
