@@ -26,16 +26,16 @@ Now click “OK” on the dialog box, and then “Apply” in the bottom right c
 
 ![Full package list screenshot](image2.png)
 
-Under Android 11.0 (R)  there’ll be a “Snapp Automotive Intel x86 Atom System” image, you should ensure the box beside it is ticked and then click “OK”. You will now be told that the image will be installed and told the size of the download. Wait for the download to complete.
+Under supported Android versions there will be a “Snapp Automotive Intel x86 Atom System” image, you should ensure the box beside it is ticked and then click “OK”. You will now be told that the image will be installed and told the size of the download. Wait for the download to complete.
 
 ### Creating an emulator AVD
 
-Select the AVD Manager from the Tools menu, and click on “+ Create Virtual Device” in the bottom left hand corner. Select the “Automotive” type on the left than you should see a “Automotive 1024p landscape” device with Play Store, but the pre-built image doesn't come with Play Store, to create a non Play Store device, right click on the “Automotive 1024p landscape” device than click "clone". After you clone the device click “Next”;
+Select the AVD Manager from the Tools menu, and click on “+ Create Virtual Device” in the bottom left hand corner. Select the “Automotive” type on the left than you should see a “Automotive 1024p landscape” device with Play Store, but the pre-built image doesn't come with Play Store, to create a non Play Store device, right click on the “Automotive 1024p landscape” device than click "clone". After you clone the device click “Next”; Make sure the newly created virtual device is also type of “Automotive” (it should show in the list of Automotive devices). If not, edit the device and change its type into “Automotive”.
 
 ![AVD Creation Screenshot](image3.png)
 
 
-On the next screen you will be offered an Android R image which is called “11.0 Snapp Automotive”. Select it and click “Next”.
+On the next screen you will be offered an Android images for the supported Android versions you installed in a previous step which is called “some version Snapp Automotive”. Select it and click “Next”.
 
 ![Snapp Automotive Image](image4.png)
 
