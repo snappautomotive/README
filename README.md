@@ -10,12 +10,16 @@ If you want to try the emulator image first please follow the instructions below
 
 ### Downloading the image in Android Studio
 
-To add the Snapp Automotive Emulator Image to Android Studio you need to select the SDK Manager option from the Tools menu. When the dialog box opens click on the “SDK Update Sites” option and select the “+” symbol to add a new site, and add a new site with the following settings;
+To add the Snapp Automotive Emulator Image to Android Studio you need to select the SDK Manager option from the Tools menu. When the dialog box opens click on the “SDK Update Sites” option and select the “+” symbol to add a new site.
+
+![SDK Update Sites screenshot](image1.png)
+
+The details are;
 
 | Option | Setting |
 | --- | --- |
 | Name      | Snapp Automotive |
-| URL       | https://downloads.snappautomotive.net/emulator/snapp-automotive-sys-img2-1.xml |
+| URL       | https://downloads.snappautomotive.com/emulator/snapp-automotive-sys-img2-1.xml |
 | Use Authentication | Unticked |
 
 Now click “OK” on the dialog box, and then “Apply” in the bottom right corner of the “Update Sites” dialog. In the same dialog box click on the “SDK Platforms” header, and tick the “Show Package Details” box in the bottom right corner. You should see a list like this;
